@@ -1,4 +1,3 @@
-
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1001 &5237179099751266945
@@ -70,13 +69,3 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b078353961ca19940b42b4ab9595d449, type: 3}
-
-fileFormatVersion: 2
-guid: f825ef98e3f806d42b2954e093ffb54d
-PrefabImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-
-
